@@ -1,4 +1,4 @@
 # mp4-to-txt
 
-This repositories failed.<br>
+This repository failed.<br>
 .mp4 can't too long.
